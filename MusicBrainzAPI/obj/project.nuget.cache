@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cFfiwgxb5NWIRieGXGSN+4kMYjI+V2vmZViTXUvXrp8QqLhfjJYB5EE3cp4hnnbfrl+TGzeruG/yPfuCJQW/0Q==",
+  "success": true,
+  "projectFilePath": "D:\\Arya Projects\\Work\\Coles\\MusicBrainzAPI\\MusicBrainzAPI\\MusicBrainzAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell XPS\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

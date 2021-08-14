@@ -1,0 +1,1578 @@
+﻿{
+  "created": "2021-08-14T11:26:36.695Z",
+  "count": 1060,
+  "offset": 0,
+  "releases": [
+    {
+      "id": "89327965-d2ee-459d-848b-50fdb75d5d43",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "count": 2,
+      "title": "Taylor Swift Karaoke: Taylor Swift",
+      "status": "Official",
+      "packaging": "Jewel Case",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Taylor Swift",
+          "artist": {
+            "id": "20244d07-534f-4eff-b4d4-930878889970",
+            "name": "Taylor Swift",
+            "sort-name": "Swift, Taylor"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Taylor Swift",
+        "primary-type": "Album"
+      },
+      "date": "2009-01-27",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "2009-01-27",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ],
+      "barcode": "843930001422",
+      "label-info": [
+        {
+          "catalog-number": "BMRATS0130",
+          "label": {
+            "id": "1a917e6f-54f5-4964-bebf-5d4e2442ceb4",
+            "name": "Big Machine Records"
+          }
+        }
+      ],
+      "track-count": 28,
+      "media": [
+        {
+          "format": "CD+G",
+          "disc-count": 1,
+          "track-count": 14
+        },
+        {
+          "format": "DVD-Video",
+          "disc-count": 0,
+          "track-count": 14
+        }
+      ]
+    },
+    {
+      "id": "3408cbac-5286-4b0c-91bb-d117165822e0",
+      "score": 98,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "count": 1,
+      "title": "Taylor Swift",
+      "status": "Official",
+      "packaging": "None",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Speedy Ortiz",
+          "artist": {
+            "id": "4fbf1a3d-a649-4f8e-9ddf-347f6ba2d307",
+            "name": "Speedy Ortiz",
+            "sort-name": "Speedy Ortiz"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "007a8f9b-363c-4cca-b349-0470d1e0ac56",
+        "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+        "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+        "title": "Taylor Swift",
+        "primary-type": "Single"
+      },
+      "date": "2012-03-06",
+      "country": "XW",
+      "release-events": [
+        {
+          "date": "2012-03-06",
+          "area": {
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "name": "[Worldwide]",
+            "sort-name": "[Worldwide]",
+            "iso-3166-1-codes": [
+              "XW"
+            ]
+          }
+        }
+      ],
+      "barcode": "",
+      "track-count": 2,
+      "media": [
+        {
+          "format": "Digital Media",
+          "disc-count": 0,
+          "track-count": 2
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "indie"
+        },
+        {
+          "count": 1,
+          "name": "indie rock"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "c2cd3c9c-8ee4-4995-acf1-f9c8200312d7",
+      "score": 98,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "count": 1,
+      "title": "Taylor Swift",
+      "status": "Official",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Taylor Swift",
+          "artist": {
+            "id": "20244d07-534f-4eff-b4d4-930878889970",
+            "name": "Taylor Swift",
+            "sort-name": "Swift, Taylor"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Taylor Swift",
+        "primary-type": "Album"
+      },
+      "date": "2011",
+      "country": "CN",
+      "release-events": [
+        {
+          "date": "2011",
+          "area": {
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "name": "China",
+            "sort-name": "China",
+            "iso-3166-1-codes": [
+              "CN"
+            ]
+          }
+        }
+      ],
+      "label-info": [
+        {
+          "catalog-number": "9787888800199",
+          "label": {
+            "id": "1a917e6f-54f5-4964-bebf-5d4e2442ceb4",
+            "name": "Big Machine Records"
+          }
+        }
+      ],
+      "track-count": 15,
+      "media": [
+        {
+          "format": "CD",
+          "disc-count": 0,
+          "track-count": 15
+        }
+      ]
+    },
+    {
+      "id": "9dd1346c-9b0a-4551-a2f1-f059e701d18a",
+      "score": 98,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "count": 2,
+      "title": "Taylor Swift",
+      "status": "Official",
+      "disambiguation": "deluxe",
+      "packaging": "Jewel Case",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Taylor Swift",
+          "artist": {
+            "id": "20244d07-534f-4eff-b4d4-930878889970",
+            "name": "Taylor Swift",
+            "sort-name": "Swift, Taylor"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Taylor Swift",
+        "primary-type": "Album"
+      },
+      "date": "2007-11-06",
+      "country": "CA",
+      "release-events": [
+        {
+          "date": "2007-11-06",
+          "area": {
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "name": "Canada",
+            "sort-name": "Canada",
+            "iso-3166-1-codes": [
+              "CA"
+            ]
+          }
+        }
+      ],
+      "barcode": "823674730628",
+      "label-info": [
+        {
+          "catalog-number": "ORBM 7306",
+          "label": {
+            "id": "1a917e6f-54f5-4964-bebf-5d4e2442ceb4",
+            "name": "Big Machine Records"
+          }
+        }
+      ],
+      "track-count": 25,
+      "media": [
+        {
+          "format": "CD",
+          "disc-count": 0,
+          "track-count": 15
+        },
+        {
+          "format": "DVD-Video",
+          "disc-count": 0,
+          "track-count": 10
+        }
+      ]
+    },
+    {
+      "id": "89e56bd4-e2ed-4927-8e9c-df4b0d318748",
+      "score": 98,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "count": 1,
+      "title": "Taylor Swift",
+      "status": "Official",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Taylor Swift",
+          "artist": {
+            "id": "20244d07-534f-4eff-b4d4-930878889970",
+            "name": "Taylor Swift",
+            "sort-name": "Swift, Taylor"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Taylor Swift",
+        "primary-type": "Album"
+      },
+      "date": "2008-03-18",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "2008-03-18",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ],
+      "barcode": "843930000791",
+      "asin": "B0014I4KH6",
+      "label-info": [
+        {
+          "catalog-number": "BMR079102",
+          "label": {
+            "id": "1a917e6f-54f5-4964-bebf-5d4e2442ceb4",
+            "name": "Big Machine Records"
+          }
+        }
+      ],
+      "track-count": 15,
+      "media": [
+        {
+          "format": "CD",
+          "disc-count": 3,
+          "track-count": 15
+        }
+      ]
+    },
+    {
+      "id": "d43bbe3b-7b1f-4d68-be8a-edd8f6631afe",
+      "score": 98,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "count": 1,
+      "title": "Taylor Swift",
+      "status": "Official",
+      "packaging": "Jewel Case",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Taylor Swift",
+          "artist": {
+            "id": "20244d07-534f-4eff-b4d4-930878889970",
+            "name": "Taylor Swift",
+            "sort-name": "Swift, Taylor"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Taylor Swift",
+        "primary-type": "Album"
+      },
+      "date": "2012-10-17",
+      "country": "JP",
+      "release-events": [
+        {
+          "date": "2012-10-17",
+          "area": {
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "name": "Japan",
+            "sort-name": "Japan",
+            "iso-3166-1-codes": [
+              "JP"
+            ]
+          }
+        }
+      ],
+      "barcode": "4988005724168",
+      "asin": "B008E006DO",
+      "label-info": [
+        {
+          "catalog-number": "UICY-20408",
+          "label": {
+            "id": "1a917e6f-54f5-4964-bebf-5d4e2442ceb4",
+            "name": "Big Machine Records"
+          }
+        }
+      ],
+      "track-count": 15,
+      "media": [
+        {
+          "format": "SHM-CD",
+          "disc-count": 0,
+          "track-count": 15
+        }
+      ]
+    },
+    {
+      "id": "c4637c8b-500f-4cf1-943d-bc2695884fb7",
+      "score": 98,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "count": 1,
+      "title": "Taylor Swift",
+      "status": "Official",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Taylor Swift",
+          "artist": {
+            "id": "20244d07-534f-4eff-b4d4-930878889970",
+            "name": "Taylor Swift",
+            "sort-name": "Swift, Taylor"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Taylor Swift",
+        "primary-type": "Album"
+      },
+      "date": "2008",
+      "country": "CA",
+      "release-events": [
+        {
+          "date": "2008",
+          "area": {
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "name": "Canada",
+            "sort-name": "Canada",
+            "iso-3166-1-codes": [
+              "CA"
+            ]
+          }
+        }
+      ],
+      "barcode": "843930000791",
+      "label-info": [
+        {
+          "catalog-number": "BMR079102",
+          "label": {
+            "id": "1a917e6f-54f5-4964-bebf-5d4e2442ceb4",
+            "name": "Big Machine Records"
+          }
+        }
+      ],
+      "track-count": 15,
+      "media": [
+        {
+          "format": "CD",
+          "disc-count": 0,
+          "track-count": 15
+        }
+      ]
+    },
+    {
+      "id": "3ee264d5-eee5-4d21-ae2e-c1ccd302c1f8",
+      "score": 98,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "count": 1,
+      "title": "Taylor Swift",
+      "status": "Official",
+      "packaging": "Jewel Case",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Taylor Swift",
+          "artist": {
+            "id": "20244d07-534f-4eff-b4d4-930878889970",
+            "name": "Taylor Swift",
+            "sort-name": "Swift, Taylor"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Taylor Swift",
+        "primary-type": "Album"
+      },
+      "date": "2008",
+      "country": "AU",
+      "release-events": [
+        {
+          "date": "2008",
+          "area": {
+            "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+            "name": "Australia",
+            "sort-name": "Australia",
+            "iso-3166-1-codes": [
+              "AU"
+            ]
+          }
+        }
+      ],
+      "barcode": "0602517874695",
+      "asin": "B001I1SFCA",
+      "label-info": [
+        {
+          "catalog-number": "1787469",
+          "label": {
+            "id": "1a917e6f-54f5-4964-bebf-5d4e2442ceb4",
+            "name": "Big Machine Records"
+          }
+        }
+      ],
+      "track-count": 15,
+      "media": [
+        {
+          "format": "CD",
+          "disc-count": 1,
+          "track-count": 15
+        }
+      ]
+    },
+    {
+      "id": "4ec21d2a-05f1-4123-8920-9e3cf0db87a4",
+      "score": 98,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "count": 1,
+      "title": "Taylor Swift",
+      "status": "Official",
+      "packaging": "Jewel Case",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Taylor Swift",
+          "artist": {
+            "id": "20244d07-534f-4eff-b4d4-930878889970",
+            "name": "Taylor Swift",
+            "sort-name": "Swift, Taylor"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Taylor Swift",
+        "primary-type": "Album"
+      },
+      "date": "2008",
+      "country": "XE",
+      "release-events": [
+        {
+          "date": "2008",
+          "area": {
+            "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+            "name": "Europe",
+            "sort-name": "Europe",
+            "iso-3166-1-codes": [
+              "XE"
+            ]
+          }
+        }
+      ],
+      "barcode": "602517874695",
+      "label-info": [
+        {
+          "catalog-number": "1787469",
+          "label": {
+            "id": "1a917e6f-54f5-4964-bebf-5d4e2442ceb4",
+            "name": "Big Machine Records"
+          }
+        },
+        {
+          "catalog-number": "1787469",
+          "label": {
+            "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+            "name": "Mercury Records"
+          }
+        }
+      ],
+      "track-count": 15,
+      "media": [
+        {
+          "format": "CD",
+          "disc-count": 0,
+          "track-count": 15
+        }
+      ]
+    },
+    {
+      "id": "97223203-e8c2-3075-b09c-27f97e0a346a",
+      "score": 98,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "count": 1,
+      "title": "Taylor Swift",
+      "status": "Official",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Taylor Swift",
+          "artist": {
+            "id": "20244d07-534f-4eff-b4d4-930878889970",
+            "name": "Taylor Swift",
+            "sort-name": "Swift, Taylor"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Taylor Swift",
+        "primary-type": "Album"
+      },
+      "date": "2006-10-24",
+      "country": "CA",
+      "release-events": [
+        {
+          "date": "2006-10-24",
+          "area": {
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "name": "Canada",
+            "sort-name": "Canada",
+            "iso-3166-1-codes": [
+              "CA"
+            ]
+          }
+        }
+      ],
+      "barcode": "823674730321",
+      "asin": "B000M53R26",
+      "label-info": [
+        {
+          "catalog-number": "ORBM7303",
+          "label": {
+            "id": "4e99961a-e139-45cf-afe6-d3f973da7124",
+            "name": "Open Road Recordings"
+          }
+        }
+      ],
+      "track-count": 11,
+      "media": [
+        {
+          "format": "CD",
+          "disc-count": 2,
+          "track-count": 11
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "country"
+        }
+      ]
+    },
+    {
+      "id": "a15b21e0-45d6-4538-8aee-279a2bc0dca0",
+      "score": 98,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+      "count": 2,
+      "title": "Taylor Swift",
+      "status": "Official",
+      "packaging": "Gatefold Cover",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Taylor Swift",
+          "artist": {
+            "id": "20244d07-534f-4eff-b4d4-930878889970",
+            "name": "Taylor Swift",
+            "sort-name": "Swift, Taylor"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Taylor Swift",
+        "primary-type": "Album"
+      },
+      "date": "2018-04-21",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "2018-04-21",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ],
+      "barcode": "843930034642",
+      "label-info": [
+        {
+          "catalog-number": "BMRTS0150B",
+          "label": {
+            "id": "1a917e6f-54f5-4964-bebf-5d4e2442ceb4",
+            "name": "Big Machine Records"
+          }
+        }
+      ],
+      "track-count": 15,
+      "media": [
+        {
+          "format": "12\" Vinyl",
+          "disc-count": 0,
+          "track-count": 7
+        },
+        {
+          "format": "12\" Vinyl",
+          "disc-count": 0,
+          "track-count": 8
+        }
+      ]
+    },
+    {
+      "id": "9bae5aab-3d16-47f5-a2a9-eb182e4e1494",
+      "score": 98,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "count": 1,
+      "title": "Taylor Swift",
+      "status": "Official",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Taylor Swift",
+          "artist": {
+            "id": "20244d07-534f-4eff-b4d4-930878889970",
+            "name": "Taylor Swift",
+            "sort-name": "Swift, Taylor"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Taylor Swift",
+        "primary-type": "Album"
+      },
+      "date": "2010",
+      "country": "PH",
+      "release-events": [
+        {
+          "date": "2010",
+          "area": {
+            "id": "786532a5-2e36-315a-bdf2-221dc1b64b72",
+            "name": "Philippines",
+            "sort-name": "Philippines",
+            "iso-3166-1-codes": [
+              "PH"
+            ]
+          }
+        }
+      ],
+      "barcode": "0602517874695",
+      "label-info": [
+        {
+          "catalog-number": "060251787469",
+          "label": {
+            "id": "1a917e6f-54f5-4964-bebf-5d4e2442ceb4",
+            "name": "Big Machine Records"
+          }
+        }
+      ],
+      "track-count": 15,
+      "media": [
+        {
+          "format": "CD",
+          "disc-count": 0,
+          "track-count": 15
+        }
+      ]
+    },
+    {
+      "id": "09689c80-1ecd-463d-b212-ad252cb138c9",
+      "score": 98,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "count": 2,
+      "title": "Taylor Swift",
+      "status": "Official",
+      "disambiguation": "deluxe",
+      "packaging": "Jewel Case",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Taylor Swift",
+          "artist": {
+            "id": "20244d07-534f-4eff-b4d4-930878889970",
+            "name": "Taylor Swift",
+            "sort-name": "Swift, Taylor"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Taylor Swift",
+        "primary-type": "Album"
+      },
+      "date": "2007-11-06",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "2007-11-06",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ],
+      "barcode": "843930000227",
+      "asin": "B000VUFJ4Q",
+      "label-info": [
+        {
+          "catalog-number": "BMR022702",
+          "label": {
+            "id": "1a917e6f-54f5-4964-bebf-5d4e2442ceb4",
+            "name": "Big Machine Records"
+          }
+        }
+      ],
+      "track-count": 25,
+      "media": [
+        {
+          "format": "CD",
+          "disc-count": 1,
+          "track-count": 15
+        },
+        {
+          "format": "DVD-Video",
+          "disc-count": 0,
+          "track-count": 10
+        }
+      ]
+    },
+    {
+      "id": "3b04b2a6-160f-407e-afea-c60d239a51da",
+      "score": 98,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "count": 1,
+      "title": "Taylor Swift",
+      "status": "Official",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Taylor Swift",
+          "artist": {
+            "id": "20244d07-534f-4eff-b4d4-930878889970",
+            "name": "Taylor Swift",
+            "sort-name": "Swift, Taylor"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Taylor Swift",
+        "primary-type": "Album"
+      },
+      "date": "2008",
+      "country": "TW",
+      "release-events": [
+        {
+          "date": "2008",
+          "area": {
+            "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+            "name": "Taiwan",
+            "sort-name": "Taiwan",
+            "iso-3166-1-codes": [
+              "TW"
+            ]
+          }
+        }
+      ],
+      "barcode": "4718622311928",
+      "label-info": [
+        {
+          "catalog-number": "BMR120702",
+          "label": {
+            "id": "1a917e6f-54f5-4964-bebf-5d4e2442ceb4",
+            "name": "Big Machine Records"
+          }
+        }
+      ],
+      "track-count": 15,
+      "media": [
+        {
+          "format": "CD",
+          "disc-count": 0,
+          "track-count": 15
+        }
+      ]
+    },
+    {
+      "id": "c0ba36da-ae1f-4161-b632-e5e4291fb6c2",
+      "score": 98,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "count": 1,
+      "title": "Taylor Swift",
+      "status": "Official",
+      "packaging": "Jewel Case",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Taylor Swift",
+          "artist": {
+            "id": "20244d07-534f-4eff-b4d4-930878889970",
+            "name": "Taylor Swift",
+            "sort-name": "Swift, Taylor"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Taylor Swift",
+        "primary-type": "Album"
+      },
+      "date": "2006",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "2006",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ],
+      "barcode": "857787001207",
+      "label-info": [
+        {
+          "catalog-number": "BMR120702",
+          "label": {
+            "id": "1a917e6f-54f5-4964-bebf-5d4e2442ceb4",
+            "name": "Big Machine Records"
+          }
+        }
+      ],
+      "track-count": 13,
+      "media": [
+        {
+          "format": "Enhanced CD",
+          "disc-count": 1,
+          "track-count": 13
+        }
+      ]
+    },
+    {
+      "id": "45f2b2cb-69a0-4201-ae9c-95745953a42c",
+      "score": 98,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "count": 2,
+      "title": "Taylor Swift",
+      "status": "Official",
+      "packaging": "Jewel Case",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Taylor Swift",
+          "artist": {
+            "id": "20244d07-534f-4eff-b4d4-930878889970",
+            "name": "Taylor Swift",
+            "sort-name": "Swift, Taylor"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Taylor Swift",
+        "primary-type": "Album"
+      },
+      "date": "2010-06-30",
+      "country": "JP",
+      "release-events": [
+        {
+          "date": "2010-06-30",
+          "area": {
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "name": "Japan",
+            "sort-name": "Japan",
+            "iso-3166-1-codes": [
+              "JP"
+            ]
+          }
+        }
+      ],
+      "barcode": "4988005615619",
+      "asin": "B003GYCODI",
+      "label-info": [
+        {
+          "catalog-number": "UICO-1186",
+          "label": {
+            "id": "1a917e6f-54f5-4964-bebf-5d4e2442ceb4",
+            "name": "Big Machine Records"
+          }
+        }
+      ],
+      "track-count": 22,
+      "media": [
+        {
+          "format": "CD",
+          "disc-count": 1,
+          "track-count": 15
+        },
+        {
+          "format": "DVD-Video",
+          "disc-count": 0,
+          "track-count": 7
+        }
+      ]
+    },
+    {
+      "id": "69dae4a8-63a3-4a24-8132-6cc3bb3759e3",
+      "score": 98,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "count": 1,
+      "title": "Taylor Swift",
+      "status": "Official",
+      "disambiguation": "Reissue",
+      "packaging": "Jewel Case",
+      "artist-credit": [
+        {
+          "name": "Taylor Swift",
+          "artist": {
+            "id": "20244d07-534f-4eff-b4d4-930878889970",
+            "name": "Taylor Swift",
+            "sort-name": "Swift, Taylor"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Taylor Swift",
+        "primary-type": "Album"
+      },
+      "date": "2018",
+      "country": "BR",
+      "release-events": [
+        {
+          "date": "2018",
+          "area": {
+            "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+            "name": "Brazil",
+            "sort-name": "Brazil",
+            "iso-3166-1-codes": [
+              "BR"
+            ]
+          }
+        }
+      ],
+      "barcode": "602517874695",
+      "label-info": [
+        {
+          "catalog-number": "1787469",
+          "label": {
+            "id": "13a464dc-b9fd-4d16-a4f4-d4316f6a46c7",
+            "name": "Universal Music"
+          }
+        },
+        {
+          "catalog-number": "1787469",
+          "label": {
+            "id": "1a917e6f-54f5-4964-bebf-5d4e2442ceb4",
+            "name": "Big Machine Records"
+          }
+        },
+        {
+          "catalog-number": "1787469",
+          "label": {
+            "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+            "name": "Mercury Records"
+          }
+        }
+      ],
+      "track-count": 15,
+      "media": [
+        {
+          "format": "CD",
+          "disc-count": 1,
+          "track-count": 15
+        }
+      ]
+    },
+    {
+      "id": "f36b9775-89a8-4290-92c6-1f1988d2207b",
+      "score": 98,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "count": 1,
+      "title": "Taylor Swift",
+      "status": "Official",
+      "packaging": "Jewel Case",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Taylor Swift",
+          "artist": {
+            "id": "20244d07-534f-4eff-b4d4-930878889970",
+            "name": "Taylor Swift",
+            "sort-name": "Swift, Taylor"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Taylor Swift",
+        "primary-type": "Album"
+      },
+      "date": "2006-10-24",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "2006-10-24",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ],
+      "barcode": "857787001207",
+      "asin": "B000I5YCCO",
+      "label-info": [
+        {
+          "catalog-number": "BMR120702",
+          "label": {
+            "id": "1a917e6f-54f5-4964-bebf-5d4e2442ceb4",
+            "name": "Big Machine Records"
+          }
+        }
+      ],
+      "track-count": 11,
+      "media": [
+        {
+          "format": "CD",
+          "disc-count": 2,
+          "track-count": 11
+        }
+      ]
+    },
+    {
+      "id": "0c1910eb-0161-4094-b2d2-244a1348b772",
+      "score": 98,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "count": 2,
+      "title": "Taylor Swift",
+      "status": "Official",
+      "disambiguation": "Target exclusive",
+      "packaging": "Jewel Case",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Taylor Swift",
+          "artist": {
+            "id": "20244d07-534f-4eff-b4d4-930878889970",
+            "name": "Taylor Swift",
+            "sort-name": "Swift, Taylor"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Taylor Swift",
+        "primary-type": "Album"
+      },
+      "date": "2007-11-06",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "2007-11-06",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ],
+      "barcode": "843930000296",
+      "label-info": [
+        {
+          "catalog-number": "BMR029602",
+          "label": {
+            "id": "1a917e6f-54f5-4964-bebf-5d4e2442ceb4",
+            "name": "Big Machine Records"
+          }
+        }
+      ],
+      "track-count": 26,
+      "media": [
+        {
+          "format": "CD",
+          "disc-count": 1,
+          "track-count": 15
+        },
+        {
+          "format": "DVD-Video",
+          "disc-count": 0,
+          "track-count": 11
+        }
+      ]
+    },
+    {
+      "id": "b041a1fb-165f-4a78-a5f4-19dbfc4c480f",
+      "score": 98,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "count": 1,
+      "title": "Taylor Swift",
+      "status": "Official",
+      "packaging": "None",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Taylor Swift",
+          "artist": {
+            "id": "20244d07-534f-4eff-b4d4-930878889970",
+            "name": "Taylor Swift",
+            "sort-name": "Swift, Taylor"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Taylor Swift",
+        "primary-type": "Album"
+      },
+      "date": "2008-03-18",
+      "country": "CA",
+      "release-events": [
+        {
+          "date": "2008-03-18",
+          "area": {
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "name": "Canada",
+            "sort-name": "Canada",
+            "iso-3166-1-codes": [
+              "CA"
+            ]
+          }
+        },
+        {
+          "date": "2008-03-18",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ],
+      "barcode": "843930000821",
+      "label-info": [
+        {
+          "label": {
+            "id": "1a917e6f-54f5-4964-bebf-5d4e2442ceb4",
+            "name": "Big Machine Records"
+          }
+        }
+      ],
+      "track-count": 15,
+      "media": [
+        {
+          "format": "Digital Media",
+          "disc-count": 0,
+          "track-count": 15
+        }
+      ]
+    },
+    {
+      "id": "6f3dbac0-859e-4d8b-a241-e738f374dbf1",
+      "score": 86,
+      "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+      "count": 1,
+      "title": "Taylor Swift (2006)",
+      "status": "Bootleg",
+      "artist-credit": [
+        {
+          "name": "Taylor Swift",
+          "artist": {
+            "id": "20244d07-534f-4eff-b4d4-930878889970",
+            "name": "Taylor Swift",
+            "sort-name": "Swift, Taylor"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Taylor Swift",
+        "primary-type": "Album"
+      },
+      "track-count": 18,
+      "media": [
+        {
+          "format": "Digital Media",
+          "disc-count": 0,
+          "track-count": 18
+        }
+      ]
+    },
+    {
+      "id": "980e1f0c-0d6c-448d-b6b8-7e63527d69b4",
+      "score": 78,
+      "count": 1,
+      "title": "Swift",
+      "artist-credit": [
+        {
+          "name": "Cediv",
+          "artist": {
+            "id": "9487b239-6e8e-4dea-ae74-074c62280e32",
+            "name": "Cediv",
+            "sort-name": "Cediv"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "84cd044e-eee5-4e45-a69f-82cd0d4efe59",
+        "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+        "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+        "title": "Swift",
+        "primary-type": "Single"
+      },
+      "date": "2017",
+      "country": "XW",
+      "release-events": [
+        {
+          "date": "2017",
+          "area": {
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "name": "[Worldwide]",
+            "sort-name": "[Worldwide]",
+            "iso-3166-1-codes": [
+              "XW"
+            ]
+          }
+        }
+      ],
+      "track-count": 1,
+      "media": [
+        {
+          "format": "Digital Media",
+          "disc-count": 0,
+          "track-count": 1
+        }
+      ]
+    },
+    {
+      "id": "86830564-0565-41ab-9ed3-7a005033444b",
+      "score": 78,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "count": 1,
+      "title": "Swift",
+      "status": "Official",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "SFT",
+          "artist": {
+            "id": "fc6fab0a-ade7-41ff-afff-8bd9cf047645",
+            "name": "SFT",
+            "sort-name": "SFT"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "5e61cf41-decb-4bd2-9487-e838e90cc1f3",
+        "type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+        "primary-type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+        "title": "Swift",
+        "primary-type": "Other"
+      },
+      "date": "2002",
+      "country": "GB",
+      "release-events": [
+        {
+          "date": "2002",
+          "area": {
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "name": "United Kingdom",
+            "sort-name": "United Kingdom",
+            "iso-3166-1-codes": [
+              "GB"
+            ]
+          }
+        }
+      ],
+      "label-info": [
+        {
+          "catalog-number": "CDSTUMM197",
+          "label": {
+            "id": "e0b106a5-4add-4839-9e40-c192457e1bf8",
+            "name": "Mute"
+          }
+        }
+      ],
+      "track-count": 20,
+      "media": [
+        {
+          "format": "CD",
+          "disc-count": 1,
+          "track-count": 20
+        }
+      ]
+    },
+    {
+      "id": "4d67a75d-9353-40cc-b2c2-6df7219e98e4",
+      "score": 78,
+      "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+      "count": 1,
+      "title": "Swift",
+      "status": "Promotion",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Analyzer",
+          "artist": {
+            "id": "3607f0ba-80d5-429d-a2c8-7c52b6198926",
+            "name": "Analyzer",
+            "sort-name": "Analyzer",
+            "disambiguation": "psytrance; Shuval Fixler & Omri Amar"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "83b24ed6-d410-480f-bc4a-44e374810884",
+        "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+        "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+        "title": "Swift",
+        "primary-type": "EP"
+      },
+      "track-count": 3,
+      "media": [
+        {
+          "format": "Digital Media",
+          "disc-count": 0,
+          "track-count": 3
+        }
+      ]
+    },
+    {
+      "id": "420452bb-dae1-4500-8b4c-317c8ca0230f",
+      "score": 78,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "count": 1,
+      "title": "Swift",
+      "status": "Official",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Marco Benevento",
+          "artist": {
+            "id": "2de4e97f-550b-4083-8fc4-83f7fd0385be",
+            "name": "Marco Benevento",
+            "sort-name": "Benevento, Marco",
+            "disambiguation": "US pianist, organist & composer"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "99e4f394-fb7d-482e-97cc-d5063d569bd7",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Swift",
+        "primary-type": "Album"
+      },
+      "label-info": [
+        {
+          "catalog-number": "RYPO 1416",
+          "label": {
+            "id": "ef23c4a5-91aa-4c68-9554-3f2cbe8d28ac",
+            "name": "The Royal Potato Family"
+          }
+        }
+      ],
+      "track-count": 9,
+      "media": [
+        {
+          "format": "Vinyl",
+          "disc-count": 0,
+          "track-count": 9
+        }
+      ]
+    }
+  ]
+}
