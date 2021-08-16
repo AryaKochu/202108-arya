@@ -11,6 +11,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using MusicBrainzAPI.Services.Interfaces;
 
 namespace MusicBrainzAPI
 {
@@ -27,11 +28,13 @@ namespace MusicBrainzAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddSingleton<IArtistService, ArtistServices>();
+            services.AddSingleton<IHttpClientService, HttpClientService>();
             services.AddControllers();
             services.AddHttpClient("musicBrainzApi", client =>
             {
                 client.BaseAddress = new Uri("http://musicbrainz.org/ws/2/");
                 client.DefaultRequestHeaders.Add("Accept", "application/json");
+                client.DefaultRequestHeaders.Add("User-Agent", "BlahAgent");
             });
         }
 
